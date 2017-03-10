@@ -1,0 +1,8 @@
+[
+    {
+    "remote": "Unicorn",
+    "repository": "proprietary_vendor_lenovo",
+    "target_path": "vendor/lenovo",
+    "branch":      "xpe-11.1"
+  }
+]
