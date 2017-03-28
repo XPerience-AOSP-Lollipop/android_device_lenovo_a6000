@@ -6,7 +6,7 @@
     "branch":      "xpe-11.1"
   },
     {
-    "repository": "android_kernel_wingtech_wt86518",
+    "repository": "android_kernel_lenovo_msm8916",
     "target_path": "kernel/lenovo/msm8916"
    }
 ]
