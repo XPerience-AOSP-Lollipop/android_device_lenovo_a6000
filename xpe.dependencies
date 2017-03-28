@@ -8,5 +8,15 @@
     {
     "repository": "android_kernel_lenovo_msm8916",
     "target_path": "kernel/lenovo/msm8916"
-   }
+  },
+    {
+    "repository": "android_device_cyanogen_msm8916-common-1",
+    "target_path": "device/cyanogen/msm8916-common"
+  },
+    {
+    "remote": "cm",
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "branch":      "cm-14.1"
+    }
 ]
